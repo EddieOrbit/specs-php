@@ -15,11 +15,17 @@
             "homepage": "https://github.com/avtocod"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/EddieOrbit/specs"
+        }
+    ],
     "require": {
         "php": "^7.3",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "avtocod/specs": "~3.70",
+        "avtocod/specs": "dev-add-new-source-wilgood",
         "illuminate/support": "~6.0 || ~7.0 || ~8.0",
         "ocramius/package-versions": "^1.4"
     },
