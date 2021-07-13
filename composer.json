@@ -25,7 +25,7 @@
         "php": "^7.3",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "avtocod/specs": "add_new_fields_for_europrotocols",
+        "avtocod/specs": "dev-add_new_fields_for_europrotocols",
         "illuminate/support": "~6.0 || ~7.0 || ~8.0",
         "ocramius/package-versions": "^1.4"
     },
