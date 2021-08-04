@@ -25,7 +25,7 @@
         "php": "^7.3",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "avtocod/specs": "dev-add-new-fields-for-arbitration-history",
+        "avtocod/specs": "dev-add-source-rsaosago-base-alt",
         "illuminate/support": "~6.0 || ~7.0 || ~8.0",
         "ocramius/package-versions": "^1.4"
     },
